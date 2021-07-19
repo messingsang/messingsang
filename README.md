@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey. You found my github account
+feel free to mess around with anything you find here.
+The entire history of my website should be available here
 
 <!--
 **messingsang/messingsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
