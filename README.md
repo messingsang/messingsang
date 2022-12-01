@@ -3,7 +3,16 @@ feel free to mess around with anything you find here.
 The entire history of my website should be available here
 
 
-Perhaps you have found a link between me and my alias piece-of-shit pseudonym. Perhaps I am an alias in order to be clean. I do not work as a federal agent that should be pretty clear to you. You can tell by the way my green is orange I like to smoke weed and so do you.
+Evergreen🎄 is back on track, yo! 
+Currently running Cybercrime Advent Calendars in Danish.
+I'm learning every day how to fuck with numbers in an interesting manner, but my github is for hosting my website.
+Ask me about intelligence, and what it means.
+I'm not difficult to get a hold of.
+
+                                                (bonusnuoq)
+                                                           👌
+
+
 
 <!--
 **messingsang/messingsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
