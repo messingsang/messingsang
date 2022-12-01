@@ -56,7 +56,7 @@ verse(){
   if int.randrange(0,1){print("Wiiiiirrrrr!");}
 }
   
-  chorus(){
+chorus(){
   
 
 
@@ -68,7 +68,7 @@ verse(){
 
 
 
-  }
+}
 
 
 
