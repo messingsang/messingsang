@@ -15,7 +15,7 @@ djenterator.pcpp
 meta language pseudocode++;
 
 main{
-  intro();
+  for int.randrange(16,128){intro();}
   while(true){
     breakdown();
     verse();
@@ -33,10 +33,12 @@ intro(){
 
 
 breakdown(){
-  for int.randrange(0,2){
-    print("Trrrr-");}
-  for int.randrange(1,2){
-    print("Chonk!");}
+  for int.randrange(4,16){
+    for int.randrange(0,2){
+      print("Trrrr-");}
+    for int.randrange(1,2){
+      print("Chonk!");}
+  }
 }
 
 verse(){
