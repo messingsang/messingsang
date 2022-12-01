@@ -13,17 +13,40 @@ I'm not difficult to get a hold of.
 ```
 meta language pseudocode;
 
-while(true){
+main{
+  intro();
+  while(true){
+    breakdown();
+    verse();
+    chorus();
+    verse();
+  }
+}
+
+intro(){
   for int.randrange(0,3){
     print("Duh-");}
   for int.randrange(1,2){
     print("Djent");}
 }
-```
-
-```
 
 
+breakdown(){
+  for int.randrange(0,2){
+    print("Trrrr-");}
+  for int.randrange(1,2){
+    print("Chonk!");}
+}
+
+verse(){
+  for int.randrange(4,16){
+    print(random.choice(["Duh-","Djent","Wuuurr","Ching","Trrr-","Chonk"]));
+  }
+  if int.randrange(0,1){print("Wiiiiirrrrr!");}
+}
+  
+  chorus(){
+  
 
 
 
@@ -33,6 +56,8 @@ while(true){
 
 
 
+
+  }
 
 
 
