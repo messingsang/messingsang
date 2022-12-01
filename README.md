@@ -11,7 +11,8 @@ I'm not difficult to get a hold of.
 
 
 ```
-meta language pseudocode;
+djenterator.pcpp
+meta language pseudocode++;
 
 main{
   intro();
