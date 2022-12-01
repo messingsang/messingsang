@@ -9,10 +9,34 @@ I'm learning every day how to fuck with numbers in an interesting manner, but my
 Ask me about intelligence, and what it means.
 I'm not difficult to get a hold of.
 
+
+```
+meta language pseudocode;
+
+while(true){
+  for random.randrange(0,2){
+    print("Duh-");}
+  for random.randrange(1,2){
+    print("Djent");}
+}
+```
+
+```
+
+
+
+
+
+
                                                 (bonusnuoq)
                                                            👌
 
 
+
+
+
+
+```
 
 <!--
 **messingsang/messingsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
