@@ -14,7 +14,7 @@ I'm not difficult to get a hold of.
 meta language pseudocode;
 
 while(true){
-  for int.randrange(0,2){
+  for int.randrange(0,3){
     print("Duh-");}
   for int.randrange(1,2){
     print("Djent");}
