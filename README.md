@@ -74,8 +74,9 @@ verse(){
 
 ```
 
+
 |TA|BU|LA|IL|
-|---|---|---|---|
+|:---:|:---:|:---:|:---:|
 |LU|MI|NA|TI|
 |NO|BU|SJI|TJU|
 |IN|FI|NI|TU|
